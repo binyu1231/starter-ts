@@ -1,1 +1,1 @@
-Please refer to https://github.com/antfu/contribute
+Please refer to https://github.com/binyu1231/contribute
